@@ -174,8 +174,13 @@ fBodyBodyGyroJerkMagMeanFreq
 ## Activity Labels
 
 WALKING             The subject is walking.
+
 WALKING_UPSTAIRS    The subject is walking up a staircase.
+
 WALKING_DOWNSTAIRS  The subject is walking down a staircase.
+
 SITTING             The subject is sitting.
+
 STANDING            The subject is standing.
+
 LAYING              The subject is laying.
